@@ -1,0 +1,339 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true looking-glass for all the oppressed free-born people of England wherein they may behold and see how to chuse the next and all future Parliaments if ever they intend to be free indeed : with a catalogue and character of the enemies of their liberty and freedom that so they may be avoided / by John North.</title>
+            <author>North, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52448</idno>
+            <idno type="STC">Wing N1288</idno>
+            <idno type="STC">ESTC R28733</idno>
+            <idno type="EEBO-CITATION">10750000</idno>
+            <idno type="OCLC">ocm 10750000</idno>
+            <idno type="VID">45642</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52448)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45642)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1407:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true looking-glass for all the oppressed free-born people of England wherein they may behold and see how to chuse the next and all future Parliaments if ever they intend to be free indeed : with a catalogue and character of the enemies of their liberty and freedom that so they may be avoided / by John North.</title>
+                  <author>North, John.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Elections.</term>
+               <term>Great Britain --  Politics and government --  1642-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45642:1"/>
+            <pb facs="tcp:45642:1"/>
+            <p>A True Looking-Glaſs FOR All the Oppreſſed Free-born People OF <hi>ENGLAND.</hi> Wherein they may behold and ſee, How to chuſe the next, and all future PARLIAMENTS, If ever they intend to be free indeed.</p>
+            <p>WITH A CATALOGUE and CHARACTER OF THE Enemies of their Liberty and Freedom, that ſo they may be avoided.</p>
+            <p>By <hi>John North.</hi>
+            </p>
+            <p>Printed at <hi>London,</hi> 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:45642:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:45642:2"/>
+            <head>A true <hi>LOOKING-GLASS</hi> for all the oppreſſed free-born people of <hi>Eng<g ref="char:EOLhyphen"/>land, &amp;c.</hi>
+            </head>
+            <p n="1">1. <seg rend="decorInit">Y</seg>Ou are to remember, that our old Parliament declared the late King to be a tyrannical <hi>Pharaoh</hi> (for which (you know) he ſince has paid his utmoſt farthing) and that all the people of this Nation, in times of King<g ref="char:EOLhyphen"/>ſhip, were in an Egyptian ſtate. And are not we ſo ſtill?</p>
+            <p>But the Lord of hoſts never delivered the Heads and El<g ref="char:EOLhyphen"/>ders of a people, (<hi>Hampdens</hi> or rich men) from a tyrannical <hi>Pharaoh,</hi> (that we read of) but he delivered the <hi>Jacobs</hi> or common people from their cruel oppreſſing Taskmaſters al<g ref="char:EOLhyphen"/>ſo. <hi>Exod.</hi> 3. 7. So that this is one Cheat.</p>
+            <p n="2">2. That they declared us to be all free-born, and the yeer 1649. the firſt yeer of <hi>Englands</hi> freedom.</p>
+            <p>Were not theſe <hi>ſweet words? Jer.</hi> 6. 13, 14, 15. but where are their deeds? This is the ſecond Cheat.</p>
+            <p>Now to prevent the like Cheats for time to come, obſerve theſe Directions following.</p>
+            <p n="1">1. Let all thoſe that have any ways aſſiſted the Parliament againſt the late King and his party, appear perſonally, both in Cities and Country, at the next Election, and challenge their free Votes unanimouſly, equal with any other, as free<g ref="char:EOLhyphen"/>born men: and ſee who will deny us it.</p>
+            <p>And howbeit there is now <hi>riſen up a new King</hi> among us, <hi>which knows not Joſeph,</hi> Exod. 1. 8, 9, 10. (for if he did, he
+<pb n="2" facs="tcp:45642:3"/>
+would be <hi>grieved for the affliction of Joſeph,</hi> Amos 6. 3, 4, 5, 6, 7.) who hath ſaid unto his Councel, <hi>Come on, let us deal wiſe<g ref="char:EOLhyphen"/>ly with them,</hi> (as they know the former <hi>Pharaohs</hi> of this Na<g ref="char:EOLhyphen"/>tion, and their Councels did with our predec<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſors) left they chuſe ſome <hi>Moſes's,</hi> which have looked upon their burdens, <hi>Exod.</hi> 2. 11. or ſome godly valiant <hi>Nehemiahs,</hi> Neh. 5. which will deliver them from their Taskmaſters and Oppreſſors, and ſo we ſhall have none to be our ſervants and ſlaves, to work and make brick, or fight for us; but (perhaps) rather fight againſt us: <hi>Exod.</hi> 9, 10, 11.</p>
+            <p>Therefore, they have put forth a late Ordinance (not to ſet Taskmaſters over us, becauſe they know that is done to their hands already; but) that <hi>none ſhall have a free Vote in the next, or any other election of Parliaments, except every one of us have</hi> 10 l. per an. <hi>in lands, or 200 l. in perſonal eſtate:</hi> which not one of a hundred of us hath, or is ever like to have, as they deal with us.</p>
+            <p>But let them remember, that howbeit they would chuſe Parliaments without us, and have divided Traitors and De<g ref="char:EOLhyphen"/>linquents eſtates amongſt them without us, yet they did not nor could not have conquered them without us. And if they pleaſe to forget this, we ſhall remember it againſt the next time they ſtand in need of us.</p>
+            <p n="2">2. Remember, that Authority ought to be given to ſuch as care leaſt for it, and kept from them that preſs faſteſt to<g ref="char:EOLhyphen"/>wards it; (which you know has been the common and con<g ref="char:EOLhyphen"/>ſtant practice of all our late Parliament-men, by making friends, and ſending to their tenants to chuſe them: a baſe abuſe, and a corrupt practice:) for he that deſireth it, would have it for his onely commodity and honour; he that look<g ref="char:EOLhyphen"/>eth not for it, conſidereth that he is choſen for others neceſ<g ref="char:EOLhyphen"/>ſity: therefore how diverſe is their adminiſtration, where both happeneth? Beware of ſuch men.</p>
+            <p n="3">3. That to all future Parliaments in this Nation, may be added others to be elected by you, which may officiate as did the Tribunes among the Romanes, termed <hi>Sacro-ſancti,</hi> if thought fit.</p>
+            <pb n="3" facs="tcp:45642:3"/>
+            <p n="4">4. That there may be a months ſpace, or more, if need be, between their deſignation unto their Office, and their entry into it; to enquire whether there were no indirect and un<g ref="char:EOLhyphen"/>lawful means uſed about their ſaid Election, and to be exa<g ref="char:EOLhyphen"/>mined in the reſpective Cities and Counties: and if any ſuch ſhall be proved, that then all ſuch Elections may be null; and that ſome conſiderable Fine may be impoſed on every one, for ſuch corrupt practices.</p>
+            <p n="5">5. That ſome determined period of time (not exceeding one whole yeer) may be ſet, for continuance of the next and all future Parliaments, and Tribunes as aforeſaid, beyond which none to continue, upon penalty of Treaſon, and upon which new Writs of courſe may iſſue out, and new Elections ſucceſſively may take place, according to the Bill for Trien<g ref="char:EOLhyphen"/>nial Parliaments: And that all members of the next and future Parliaments, and Tribunes (if any ſuch ſhall be) and all others to be employed or intruſted under them, may give a ſtrict Engagement to the people, (as by their Electors ſhall be thought fit) for the true and faithful diſcharge of that great and ſupreme truſt repoſed in them for publike good, before they or any of them ſhall preſume or be allowed to exerciſe any power or authority (by vertue of any ſuch Election to be made as aforeſaid) over our perſons or eſtates: conſidering, and alſo remembring, that our obſolete (but true) Adage, <hi>That none are deceived, but where they trust.</hi>
+            </p>
+            <p n="6">6. That at the ſitting down of the next Parliament to be choſen as aforeſaid, all the Officers of the Army may reſigne and deliver up unto the ſaid Parliament all their Commiſſi<g ref="char:EOLhyphen"/>ons and powers received, together with all the Ships, Gari<g ref="char:EOLhyphen"/>ſons, Horſe, Arms, and Ammunition, belonging to this Com<g ref="char:EOLhyphen"/>monwealth.</p>
+            <p n="7">7. Beware of chuſing any of theſe perſons in general terms hereafter mentioned and expreſſed: for they are uſe<g ref="char:EOLhyphen"/>leſs and dangerous, as to the common peoples intereſt, as by ſad experience we have found too true. That is to ſay,</p>
+            <p>Great Landlords, (by what other names or titles ſoever they be called;) <hi>Dives's,</hi> or rich men; Uſurers, Tythe-mongers,
+<pb n="4" facs="tcp:45642:4"/>
+improvers of Commons (for their own private be<g ref="char:EOLhyphen"/>nefit and advantage) churliſh <hi>Nabals,</hi> Ingroſſers, Judges, (ſuch as have been ſilent <hi>St. Johns</hi> in the poor mens caſe and cauſe) Lawyers, (of all ſorts, Commiſſioners for the conſtant month<g ref="char:EOLhyphen"/>ly Aſſeſments, nor any of their Collectors or ſub-Collectors, Commiſſioners for raiſing the Militia-Forces, Commiſſioners for taking and ſubſcribing that late new (but needleſs) En<g ref="char:EOLhyphen"/>gagement; <hi>Sir John</hi> Goalers, (nor any of their Maſtiffs, Bear<g ref="char:EOLhyphen"/>dogs, or Blood-hounds) Exciſe-men, nor Cuſtom-takers, nor any belonging to them) Juſtices of the Peace or <hi>Quorum,</hi> our late Truſtees, Keepers of our Liberties, nor any of their cloſe Committees; rebellious <hi>Sauls,</hi> nor mercenary Souldiers.</p>
+            <p>Brethren in evil, ſtand together, &amp; hearken to your Charge.</p>
+            <div type="part">
+               <head>Landlords.</head>
+               <p>Theſe are they, that (notwithſtanding all our ſufferings and loſſes ſuſtained by Free-quarter, and Plunder of our horſes and other goods, in theſe ſad times of War) for payment of their Fines for Delinquencie, and recruiting of their loſſes otherwiſe, (voluntarily contracted and occaſioned by them<g ref="char:EOLhyphen"/>ſelves, not us) by Fines, Loans, together with one moyety, or one third part at the leaſt, of all Aſſeſments paid to the Souldiery, exacted from us, over and above our ancient Rack<g ref="char:EOLhyphen"/>rents, have <hi>beaten us to pieces,</hi> and do <hi>grinde our faces;</hi> contra<g ref="char:EOLhyphen"/>ry to the expreſs minde of the Lord, even the Lord of hoſts, <hi>Iſai.</hi> 3. 15. wherein they deal worſe with us, then Egyptian <hi>Pharaoh</hi> did with the oppreſſed Iſraelites: for they have in<g ref="char:EOLhyphen"/>creaſed the tale of our bricks or rents which we paid in times paſt, yet give us no more land or ſtraw, but by them<g ref="char:EOLhyphen"/>ſelves or oſficers, bid us, Go, get more land or ſtraw where we can finde it: for <hi>we be idle, therefore we cry, ſaying, Let us go free.</hi> Exod. 5. 6, 8, 9.</p>
+               <p>Theſe are they that lay more work upon us, that we may labour therein, to maintain their pomp, pride, and idleneſs, which were the ſins of Sodom; ſaying, Let them not regard their late Parliaments Declarations, which declared them to be free-born; and the yeer 1649. the firſt year of Englands freedom; for thoſe were but <hi>vain words,</hi> Exod. 5. 9. like that
+<pb n="5" facs="tcp:45642:4"/>
+Proclamation or Declaration which King <hi>Zedekiah</hi> in his time made to the Jews. Read <hi>Jer.</hi> 34. from verſ. 8. to the end.</p>
+               <p>Theſe are they, that ſtill <hi>joyn houſe to houſe,</hi> and <hi>Lay field to field,</hi> as mad as ever: the wo long ſince pronounced againſt ſuch by the Lord of hoſts, not at all regarding. But the wo in time may overtake them. <hi>In mine ears ſaid the Lord of hoſts, Of a truth, many houſes ſhall be deſolate, even great and fair without inhabitant,</hi> Iſai. 5. 8, 9. <hi>And I will ſmite the winter-houſe, with the ſummer-houſe; and the houſes of ivory ſhall periſh, and the great houſes ſhall have an end, ſaith the Lord, Amos</hi> 3. 15.</p>
+               <p>And have we not ſeen this fulfilled upon many of them, in all the three Nations, ſince theſe Wars? (though under ſome other notion) and aſſuredly, their fellows muſt follow, and dance after them, except their great Maſters repent; which we ſee ſmall hopes of. But muſt <hi>White-hall</hi> (think you) be ſpoiled, now after ſo much coſt ſpent about tricking and trim<g ref="char:EOLhyphen"/>ming it, at the Commonwealths charge? (that would be pi<g ref="char:EOLhyphen"/>ty.) Yea: we do not finde it excepted, no more then <hi>Theobalds</hi> and the reſt: And why ſo? what is the matter or cauſe? Their great Maſters have <hi>eaten up the vineyard; the ſpoil of the poor is in their houſes,</hi> Iſai. 3. 14.</p>
+               <p>But ſome perhaps will be ready to ſay, <hi>This is but a poor cauſe that is ſhewed, therefore we will not believe it.</hi> Who can help it?</p>
+               <p>Theſe are they, that <hi>Saul</hi>-like take our ſons, and appoint ſome to ear their ground, and reap their harveſt; others to drive their Coaches; and ſome to run before their Coaches; and others to be their Poſtilions; which is a trick of ſtate more then <hi>Saul</hi> had, that we read of, 1 <hi>Sam.</hi> 8. 11, 12. and they take our daughters, and appoint ſome to be their Cooks, Bakers, and Brewers; others to empty their Foiſting-curs and Monkeys. (Yet <hi>our fleſh is as the fleſh of our brethren, and our children as theirs,</hi> Neh. 5. 5.)</p>
+               <p>Theſe are they, whoſe bond-ſlaves we are in times of peace, and vaſſals in times of war; and for whom we muſt fight, and adventure our lives, limbs, and blood, at our perils of being
+<pb n="6" facs="tcp:45642:5"/>
+turn'd out of our houſes under old hedges, in caſe of refuſal, let the Cauſe be right or wrong: ſo verifying our Adage, <hi>They muſt needs go, that the devil drives:</hi> and if we be maim<g ref="char:EOLhyphen"/>ed and lamed, then we may go beg for our ſelves and fami<g ref="char:EOLhyphen"/>lies; which is all they care for us. <hi>But ſure we ſhall grow older and wiſer, when days grow longer.</hi>
+               </p>
+               <p>
+                  <hi>Shall they not riſe up ſuddenly that ſhall bite them, and awake that ſhall vex them? And they ſhall be for booties unto them,</hi> Hab. 2. 7. and ſerve them as they have ſerved others, <hi>Iſa.</hi> 14. 2, 3, 4, 5, 6. Look to it, Tyrants and Oppreſſors.</p>
+            </div>
+            <div type="part">
+               <head>Dives's, or rich men.</head>
+               <p>Theſe are they that are <hi>clothed in purple and fine linen,</hi> not knowing what new French cut or French faſhion to put on; and <hi>fare deliciouſly every day,</hi> not knowing what to eat or put in; whilſt poor <hi>Lazarus</hi> lies in the ſtreets, (for they will not (now) let him lie at their gates) the dogs ſhewing more com<g ref="char:EOLhyphen"/>paſſion towards him, then their Maſters. But <hi>Dives, thou ſhalt be tormented,</hi> and <hi>Lazarus</hi> one day be <hi>comforted.</hi> Luke 16. from verſ. 19. to the end. For if <hi>Princes and Kings children</hi> be <hi>puniſhed,</hi> for <hi>wearing ſtrange apparel,</hi> Zeph. 1. 8. do ye think to eſcape? No, I'll warrant you.</p>
+               <p>Theſe are they that <hi>deſpiſe the poor. Do not the rich men op<g ref="char:EOLhyphen"/>preſs us, and draw us before the judgement-ſeats?</hi> James 2. 6.</p>
+               <p>
+                  <hi>Go to now, ye rich men, weep and howl, for your miſeries that ſhall come upon you: your riches are corrupted, and your garments moth-eaten. Your gold and ſilver is cankered, and the ruſt of them ſhall be a witneſs againſt you, and ſhall eat your fleſh as it were fire. Ye have heaped up treaſure together for the laſt days.</hi> Can ye believe this? <hi>Ye have lived in pleaſure on the earth, and been wanton: ye have nouriſhed your hearts as in a day of ſlaugh<g ref="char:EOLhyphen"/>ter.</hi> James 5. 1, 2, 3, 5. Can ye deny this? <hi>Zeph.</hi> 1. 18.</p>
+            </div>
+            <div type="part">
+               <head>Uſurers.</head>
+               <p>Theſe are they that oppreſs us by uſury, vantage and in<g ref="char:EOLhyphen"/>creaſe, for money, meat, clothes, corn, cattel, and everything we ſtand in need of: poſitive Laws of God to the contrary, notwithſtanding, nor at all regarding. <hi>Levit.</hi> 25. 36, 37.</p>
+               <p>Theſe are they that have <hi>taken uſury and the increaſe,</hi> and
+<pb n="7" facs="tcp:45642:5"/>
+have greedily gained of their brethren and neighbours, and <hi>have forgotten me, ſaith the Lord,</hi> Ezek. 18. 8, 12, 13, 16, 17. But the Lord will remember you for it, doubt not.</p>
+            </div>
+            <div type="part">
+               <head>Legal Prieſts, and Tythe-mongers.</head>
+               <p>Theſe are they, that <hi>walk in ſheeps clothing, but inwardly they are ravening wolves.</hi>
+               </p>
+               <p>Theſe are they, that <hi>devour</hi> not <hi>widows houſes</hi> onely, but now, even all poor mens houſes alſo; inforcing us by hu<g ref="char:EOLhyphen"/>mane Laws to pay Tythes of all things which we poſſeſs, yea Offerings for bread and wine, provided at our own proper coſt and charges; with Harth-peny, and Garth-peny, and Eggs at Eaſter; and <hi>for a pretence, make long</hi> whining hypocritical <hi>prayers,</hi> and Legal Sermons, <hi>teaching for doctrine the command<g ref="char:EOLhyphen"/>ments of men: therefore they ſhall receive the greater damnation.</hi>
+               </p>
+               <p>Theſe are they, that <hi>appear righteous outwardly unto men, but within they are full of all hypocriſie and iniquity.</hi>
+               </p>
+               <p>Theſe are <hi>blinde guides, leaders of the blinde,</hi> which are al<g ref="char:EOLhyphen"/>ways teaching both ſilly men and ſilly women, but <hi>never able to bring them to the knowledge of the truth,</hi> 2 Tim. 3. 7. Can they teach that to others, which they are ignorant of them<g ref="char:EOLhyphen"/>ſelves?</p>
+               <p>Theſe are they that teach for hire; <hi>and if a man put not in<g ref="char:EOLhyphen"/>to their mouthes, they even prepare war againſt him.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Pybald Impropriators.</head>
+               <p>Theſe are <hi>dumb dogs,</hi> that bite, but bark not at all; <hi>greedy dogs, that can never have enough;</hi> creatures never heard nor read of in Scripture: yet theſe muſt have Tythes alſo, or treble damages in caſe of non-payment; when by the Le<g ref="char:EOLhyphen"/>vitical Law the poor ſhould receive Tythes of them rather, <hi>Deut.</hi> 14. 28, 29.</p>
+               <p>Theſe are they that take the tenth of our Corn, the tenth of our hay, the tenth of our cattel, and of our ſheep, or tre<g ref="char:EOLhyphen"/>ble damages in caſe of non-payment, without any colour of right, more then a thief hath to a ſtoln horſe; when thou<g ref="char:EOLhyphen"/>ſands of poor people, for far leſs offences, are hang'd ſtill like dogs; but theſe ſteal (<hi>cum privilegio</hi>) by authority.</p>
+            </div>
+            <div type="part">
+               <pb n="8" facs="tcp:45642:6"/>
+               <head>Improvers of Commons.</head>
+               <p>Theſe are they that in compaſſing the earth are worſe then the devil: for it is written, He did but <hi>walk to and fro in it;</hi> he did not ditch it, hedge it, and incloſe it to himſelf, as our Common-improvers have done, not leaving Chriſt in us, where to reſt his head.</p>
+               <p>Theſe are the <hi>fat bulls and kine of Baſhan,</hi> which <hi>encompaſs us on every ſide,</hi> both on high-lands and low-lands, which op<g ref="char:EOLhyphen"/>preſs the poor, and deſtroy the needy, and ſay to their Ma<g ref="char:EOLhyphen"/>ſters, <hi>Bring, and let us drink,</hi> Amos 4. 1.</p>
+               <p>Theſe are they <hi>whoſe teeth are as ſwords, and their jaws as knives, to eat up the afflicted out of the earth, and the poor from a<g ref="char:EOLhyphen"/>mong men.</hi> Prov. 30. 14.</p>
+            </div>
+            <div type="part">
+               <head>Churliſh Nabals.</head>
+               <p>Theſe are they that anſwer us in our need <hi>roughly, ſaying, Shall I then take my bread, and my drink, and my victuals, that I have provided for my ſelf and ſervants, and give it unto men whom I know not whence they be?</hi> Such ſons of Belial are they, that we dare not ſpeak to them, for any juſtice.</p>
+               <p>For the weapons of the Churl are wicked; he deviſeth wicked counſel to deſtroy the poor with lying words, and to make empty the hungry ſoul, and cauſeth the drink of the thirſty to fail, and to ſpeak againſt the needy in judge<g ref="char:EOLhyphen"/>ment.</p>
+            </div>
+            <div type="part">
+               <head>Ingroſſers.</head>
+               <p>Theſe are they that firſt catch up all the incloſed grounds in a Pariſh, to feed and graze upon, and then with their great herds of young beaſts, and flocks of ſheep, eat and de<g ref="char:EOLhyphen"/>vour up all the Common grounds from us alſo, that we can ſcarce keep a Cow alive to give our children milk; and yet nevertheleſs, they cauſe us to do as much, nay more, at every Common-days work, then they do.</p>
+               <p>Theſe are they <hi>that ſay, When will the New-moon be gone, that we may ſell corn? and the Sabbath, that we may ſet forth wheat? making the ephah ſmall, and the ſhekel great, and falſi<g ref="char:EOLhyphen"/>fying the balance by deceit:</hi> denying the poor a Peck of corn
+<pb n="9" facs="tcp:45642:6"/>
+at home, for their money, unleſs they give them more for it then the market will afford.</p>
+               <p>Theſe are merchants: the balance of deceit is in their hands, and they love to oppreſs.</p>
+               <p>
+                  <hi>Hear this, O ye that ſwallow up the needy, even to make the poor of the land to fail.</hi> Amos 8. 4, 5.</p>
+            </div>
+            <div type="part">
+               <head>Judges.</head>
+               <p>Theſe are they, whoſe mouthes and tongues the <hi>Hamp<g ref="char:EOLhyphen"/>dens</hi> and rich mens golden key could open and unty, to ſpeak on their behalf, againſt the late King and their predeceſſors, in the Caſe of Ship-money, and other illegal proceedings then complained of; which was the cauſe of their preferment: but, then their preferment ſtruck them dumb in the poor mens Caſe and Cauſe concerning conſtant monthly Aſſeſments, polling money, Engagement-money, and Exciſe, impoſed by the Parliament and others upon the poor; beſides the illegal impriſonment of many: againſt which, no juſtice can be ob<g ref="char:EOLhyphen"/>tained from them. Do not they now deſerve the ſame ſen<g ref="char:EOLhyphen"/>tence of a Hurdle and a Halter, which they threatned their predeceſſors withal?</p>
+               <p>Theſe are they, that when they do their office in delivering ſome of our poor brethren out of the tyrannical Norman Gaols, as much as in them lieth, endeavour conſtantly to hang them all, many of which had been inſtruments to pre<g ref="char:EOLhyphen"/>ſerve them, and their <hi>quondam</hi> great Maſters, from the block, or gallows, in caſe their late dread Soveraign, or his ſon (now call'd <hi>Charles Stuart</hi>) had prevail'd. But the fear of God is more to be ſeen in Egyptian <hi>Pharaoh</hi>'s Midwives, (though Heathens, and Women) then in our old Men-Mid<g ref="char:EOLhyphen"/>wives, which deliver us indeed of both ſexes, (without re<g ref="char:EOLhyphen"/>ſpect either to youth or age) but it's to their Officers, to be hang'd like dogs, till we have paid our utmoſt farthing: con<g ref="char:EOLhyphen"/>trary to any poſitive Law of God, Humanity, or Chriſtia<g ref="char:EOLhyphen"/>nity.</p>
+               <p>Theſe are they, that <hi>judge for reward and hire:</hi> they are evening-wolves, they gnaw not the bones till the morrow: they abhor judgement, and pervert all equity. <hi>Yet will they
+<pb n="10" facs="tcp:45642:7"/>
+lean upon the Lord</hi> (as their great Maſters do) <hi>and ſay, Is not the Lord among us? none evil can come upon us.</hi> Micah 3. 9, 10, 11.</p>
+               <p>
+                  <hi>Therefore the law is ſlacked, and judgement doth never go forth: for the wicked doth compaſs about the righteous; therefore wrong judgement proceedeth.</hi> Hab. 1. 12, 13.</p>
+            </div>
+            <div type="part">
+               <head>Lawyers.</head>
+               <p>Theſe are they that <hi>lade men with heavie burdens grievous to be born, and they themſelves touch not</hi> the burdens <hi>with one of their fingers.</hi>
+               </p>
+               <p>Theſe are they that have violently oppreſſed by ſpoiling and robbing, and have vexed the poor and needy; yea, they afflict the juſt, they take reward, and oppreſs the poor in the gate.</p>
+               <p>
+                  <hi>Wo unto them that decree unrighteous decrees, and that write grievous things which they have preſcribed, to turn aſide the needy from judgement, and to take away the right from the poor of my people; that widows may be their prey, and that they may rob the fatherleſs.</hi>
+               </p>
+               <p>
+                  <hi>As a cage is full of birds, ſo are their Offices full of deceit: thereby they are become great, and waxen rich.</hi> Jer. 5. 27.</p>
+               <p>
+                  <hi>Commiſſioners for the Monthly Aſſeſments, with their Col<g ref="char:EOLhyphen"/>lectors and ſub-Collectors.</hi>
+               </p>
+               <p>Theſe are they, that when for want of money we fail at any time to pay our own or our great Landlords Aſſeſments, (for they make us pay them, long before any rent be due) then by their commands we have our Cows driven away, or our clothes taken from our backs and beds, with great violence, by their Collectors or ſub-Collectors, and either ſold for half or a third part of their worth, or otherwiſe forced to pay moſt grievous exactions for diſtraining, over and above our Aſſeſ<g ref="char:EOLhyphen"/>ments; and ſome mens goods carried quite away, worth 20 <hi>l.</hi> when the Aſſeſment was under 4 <hi>l.</hi> without giving any ac<g ref="char:EOLhyphen"/>count at all for the ſame. Thus we are pill'd and poll'd on all ſides moſt intolerably, and no law or juſtice can be had or obtained againſt them.</p>
+               <p>Theſe are they that obſtruct the regulated courſe of juſtice,
+<pb n="11" facs="tcp:45642:7"/>
+ſo much heretofore complained of in times of Kingſhip, as unlawful then; but now all things muſt be lawful, agreeable with their arbitrary wills and pleaſures.</p>
+               <p>Theſe are they that cauſe us to go naked, without clothing: <hi>they have riſen up as an enemy; they pull off the robe with the garment, from them hat paſs by ſecurely, as a man averſe from war.</hi> Mic. 3. 8.</p>
+            </div>
+            <div type="part">
+               <head>Commiſſioners for the <hi>Militia.</hi>
+               </head>
+               <p>Theſe are they, that, for ſaving their own and fellows e<g ref="char:EOLhyphen"/>ſtates, have impoſed a great part of the charge thereof, by way of a general Aſſeſment, upon every Pariſh; whereby, e<g ref="char:EOLhyphen"/>ven the pooreſt, which had but a Cow, were forced to con<g ref="char:EOLhyphen"/>tribute towards the ſame, contrary to all equity and conſci<g ref="char:EOLhyphen"/>ence.</p>
+            </div>
+            <div type="part">
+               <head>Commiſſioners for taking and ſubſcribing the late new needleſs Engagement.</head>
+               <p>Theſe are they, that by themſelves or Clerks have exacted many thouſands of pounds from us, for cheating Certificates about the ſame, ſold at 6 <hi>d.</hi> if not 12 <hi>d.</hi> apiece: which would not be allowed of, when we had them.</p>
+            </div>
+            <div type="part">
+               <head>Exciſe-men, and Cuſtom-takers.</head>
+               <p>Theſe are they that have their Spaniels and Beagles hunt<g ref="char:EOLhyphen"/>ing in Packs and Grayn-tubs.</p>
+               <p>Theſe are they that make us <hi>drink our water for money,</hi> Lam. 5. 4. and enflame the reckoning for all things we ſtand in need of; <hi>Exciſe</hi> being a common name for all Monopolies (ſo much heretofore alſo complained of) as <hi>homo</hi> is a com<g ref="char:EOLhyphen"/>mon name to all men. Beſides, who is able to number up the many thouſands of pounds that have been exacted from us by them and their agents, upon that account? And yet no juſtice can be had againſt them for it.</p>
+               <p>
+                  <hi>Our necks are under perſecution: we labour and have no reſt,</hi> by reaſon of theſe tyrants our oppreſſors. <hi>Lam.</hi> 5. 5.</p>
+               <p>
+                  <hi>Servants have ruled over us: there is none that doth deliver us out of their hand.</hi> Lam. 5. 6.</p>
+            </div>
+            <div type="part">
+               <pb n="12" facs="tcp:45642:8"/>
+               <head>Sir John Gaolers.</head>
+               <p>Theſe are they that like <hi>Cannibals</hi> live upon mans fleſh and blood. Oh the tyranny, cruelty, violence, and villany, that hath been (and, for ought we know, ſtill is) committed up<g ref="char:EOLhyphen"/>on poor priſoners (if not inhumane murthers) ſo much com<g ref="char:EOLhyphen"/>plained of, even in print, and yet no juſtice can be had againſt them for it! Men groan out of the City and Country, and the ſoul of the wounded crieth out; yet they paſs un<g ref="char:EOLhyphen"/>puniſhed.</p>
+            </div>
+            <div type="part">
+               <head>Juſtices of the Peace and <hi>Quorum.</hi>
+               </head>
+               <p>Theſe are they that ſtill put in due execution all the tyran<g ref="char:EOLhyphen"/>nical Laws, and Roguiſh Statutes heretofore made againſt the Poor by the late King <hi>Pharaohs</hi> of this Nation, and their great Councels of Taskmaſters.</p>
+               <p>Theſe (and their great Maſters) are they, that <hi>hate the Tray<g ref="char:EOLhyphen"/>tors, but love the Treaſon.</hi> For, are not all <hi>the ſtatutes of Omri</hi> kept in force againſt us at this day? <hi>Mica.</hi> 6. 16.</p>
+            </div>
+            <div type="part">
+               <head>Our late Truſtees.</head>
+               <p>Theſe are they that we long looked up at, as the brazen Serpent, which would have healed all our grievances: when alas! they were more ready, by far, to hang us, then heal us of the biting of theſe fiery Scorpions our Oppreſſors. For, did not theſe wicked men lay wait, as he that ſetteth ſnares? They ſet a trap to catch poor complaining men: witneſs their ſeveral Ordinances and Acts of Treaſon made for that purpoſe. But the pit they digged for others, they may come to fall into it themſelves.</p>
+               <p>Theſe are they, that (like the falſe Rulers of the Jews) healed our hurt <hi>ſlightly,</hi> with ſweet words, ſaying and de<g ref="char:EOLhyphen"/>claring us to be all free-born, and the yeer 1649. the firſt yeer of <hi>Englands</hi> freedom: <hi>Jer.</hi> 6. 14. when there is no freedom to us, other then what ſhews faces without bluſh<g ref="char:EOLhyphen"/>ing, like that freedom which perfictious King <hi>Zedekiah</hi> alſo in his time promiſed and proclaimed to the Jews then. Read <hi>Jer.</hi> 34. 8. and there you ſhall ſee what that was, and what judgements the Lord pronounced againſt him and his Great ones for the ſame; which afterwards came to paſs, and were
+<pb n="13" facs="tcp:45642:8"/>
+executed upon <hi>Zedekiah</hi> and his Princes, as you may read in the 39 Chapter of <hi>Jeremiah.</hi> And do theſe falſe perfidious men of our times think to eſcape, becauſe they have ſtopt the Officers mouthes? No, we'll warrant them.</p>
+               <p>Theſe are they, that <hi>are waxen fat and ſhining, they overpaſs the deeds of the wicked:</hi> they executed no judgement, no, not <hi>the judgement of the fatherleſs.</hi> Yet they proſper'd, though they executed no judgement for the poor.</p>
+               <p>
+                  <hi>Shall I not viſit for theſe things, ſaith the Lord? ſhall not my ſoul be avenged on ſuch a nation as this?</hi> Jer. 5. 26, 27, 28, 29.</p>
+               <p>Theſe are they that <hi>deviſed wicked counſel in this city, which ſaid, It is not near: let us build houſes,</hi> (beſides many built to their hand:) <hi>this city is the caldron, and we be the fleſh.</hi> But let them take a little pains to read the 11 Chapter of <hi>Ezekiel,</hi> from the beginning to <hi>verſ.</hi> 13. and then tell us what they think of it.</p>
+               <p>Theſe are they that kept their hypocritical monthly Mock<g ref="char:EOLhyphen"/>faſts, as did the falſe Jews aforeſaid, (whoſe ſteps they have trod in, as one would trace a Hare in ſnow. Read <hi>Ezek.</hi> 7. 5. to the end of that Chapter; and tell us alſo what you think of it. But that true <hi>faſt which the Lord of hoſts hath choſen,</hi> Iſai. 58. 6, 7. they could not like of: they were deaf to that faſt; and ſo are their ſucceſſors.</p>
+               <p>Theſe are they that ſate guarded with Souldiers at the Commonwealths charge; whereas in truth, and of right, they ought to have had no other Guards allowed them but Juſtice and Righteouſneſs, which would have been a Safe<g ref="char:EOLhyphen"/>guard, a Robe and a Crown unto them, as it was to upright <hi>Job,</hi> if they had acted accordingly. Therefore Tyrants and Oppreſſors have need of ſtrong Guards, they know.</p>
+               <p>Theſe are they that by their own arbitrary wills, without the free conſent of the people firſt had and obtained, <hi>Reſolved upon the Queſtion,</hi> and made an Act to ſit three yeers longer; which in all would have been Fourteen yeers; and by the ſame Law, would not no doubt have reſolved further upon the Queſtion to have ſitten three hundred yeers longer, if they
+<pb n="14" facs="tcp:45642:9"/>
+had lived, and the world continued ſo long. Wot ye not the reaſon why? But their Servants took an order with them: but <hi>who may</hi> now <hi>ſay unto them, What do ye?</hi> Theſe <hi>Rehoboams little fingers have been heavier</hi> upon us <hi>then the late Kings loyns.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Keepers of our Liberties.</head>
+               <p>Theſe were they, that, under a pretence of keeping our Liberties for us, kept them from us: and when we ſpake a<g ref="char:EOLhyphen"/>gainſt them for it, then did they commit us to one Preroga<g ref="char:EOLhyphen"/>tive-priſon or other, till they pack'd Juries, and pick'd Judges to hang us all: And when the honeſt Juries could finde no juſt cauſe to condemn us, then by their arbitrary wills endea<g ref="char:EOLhyphen"/>voured to murther us, by perpetual impriſonment, (which is worſe then death.) And is not this in faſhion ſtill?</p>
+            </div>
+            <div type="part">
+               <head>Innumerable Cloſe Committees.</head>
+               <p>Theſe were they, that, under a pretence of redreſſing our grievances, aggravated them above meaſure, by tedious de<g ref="char:EOLhyphen"/>lays, and endleſs attendance upon them, with charges and expences inſupportable: which many honeſt men can wit<g ref="char:EOLhyphen"/>neſs. Ask but the inhabitants of the Iſle of <hi>Axholm,</hi> and they ſhall tell you as ſad a ſtory as any as in England: nor yet can finde juſtice from any other.</p>
+            </div>
+            <div type="part">
+               <head>Rebellious Sauls, and mercenary Officers of the Army.</head>
+               <p>Theſe are they, that, inſtead of <hi>obeying the commandment of the Lord of hoſts,</hi> have <hi>turned to the prey,</hi> and ſought Kingly Houſes, Mannors, Lands, and large Poſſeſſions, with high Ti<g ref="char:EOLhyphen"/>tles of Honour for themſelves; wholly neglecting the ho<g ref="char:EOLhyphen"/>nour of Jeſus Chriſt, and the good of his oppreſſed people; and ſuffered the old Parliament to cheat the poor common Souldiers with deſperate Debenters, which they were ſince forced to ſell for 2 <hi>s. per li.</hi> to thoſe that knew the Plot, and lay upon the lurch and catch.</p>
+               <p>Theſe are they that ſold our poor brethren the Scots (if not Engliſh) for ſilver, (and <hi>the needy for a pair of ſhooes,</hi> for ſlaves) at 6 <hi>d.</hi> or 8 <hi>d.</hi> a man; elſe there's lyers. <hi>Amos</hi> 2. 6. We wiſh them read 2 <hi>Chron.</hi> 28. 8, 9, 10, 11. and conſider it.</p>
+               <p>
+                  <hi>O Lord, thou haſt ordained them for judgement; and O mighty
+<pb n="15" facs="tcp:45642:9"/>
+God, thou haſt eſtabliſhed them for correction: wherefore lookest thou upon them that deal treacherouſly? and holdest thy tongue when the wicked devoureth the man that is more righteous then he?</hi> Hab. 1. 12, 13. <hi>The beſt of them is as a bryer, and the moſt upright ſharper then a thorne-hedge,</hi> Mic. 7. 4.</p>
+               <p>Theſe are they, joyntly and ſeverally, that <hi>eat our fleſh, and fley our skin from off us, and they break our bones, and chop them to peices, as for the pot, and as fleſh within the Cauldron,</hi> Mic. 3. 1, 2, 3.</p>
+               <p>Theſe are they, that <hi>Simeon</hi> and <hi>Levi</hi>-like, are all brethren in evil, <hi>inſtruments of cruelty are in their habitations. Curſed be their wrath, for it is cruel: the Lord divide them in Jacob, and ſcatter them in Iſrael.</hi> Amen. Gen. 49. 5, 6.</p>
+               <p>
+                  <hi>What will ye do in the day of viſitation, and in the deſolation which ſhall come from far? to whom will ye flee for help? and where will ye leave your glory?</hi> Iſa. 10. 3. Ye ſhall have no more of our help, we promiſe you.</p>
+               <p>And now we ſhall hear the Great ones and Rich men whet their tongues at this, and ſay, It would be a wiſe Par<g ref="char:EOLhyphen"/>liament, that ſhould conſiſt of none but Farmers, Shep<g ref="char:EOLhyphen"/>herds, Herds-men, Labourers in the field, Brick-makers, Mechanicks, and ſuch-like fellows and fools, that underſtand nothing of ſuch matters.</p>
+               <p>
+                  <hi>The rich man</hi> (ſaith Solomon) <hi>is wiſe in his own conceit, but the poor</hi> (which they account fools) <hi>that hath underſtanding could ſearch out</hi> the Ks. might they have liberty to do it, <hi>Prov.</hi> 28. 11. And this is the cauſe why they uſe all their craft to keep us out of ſuch elections.</p>
+               <p>Had theſe men lived in thoſe daies, (no doubt) they would have condemned the wiſdom of God, in chuſing <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> and <hi>David,</hi> which were Shepherds, for ſuch imployments; and the Prophets which were Herds-men, and inferiour men in reſpect of the Grandees of thoſe times: and the wiſdom of Chriſt, for chuſing ſuch for poor fiſher-men, and deſpiſed ones, to preach the Goſpel, before the great Rabbies and Doctors of thoſe dayes.</p>
+               <p>But let them remember, that <hi>not many wiſe men after the
+<pb n="16" facs="tcp:45642:10"/>
+fleſh, not many mighty, not many noble, are called.</hi>
+               </p>
+               <p>
+                  <hi>For God hath choſen the fooliſh things of the world, to confound the wiſe; and God hath choſen the weak things of the world, to confound the things which are mighty; and baſe things of the world, and things which are deſpiſed, hath God choſen; yea, and things that are not, to bring to nought things that are.</hi>
+               </p>
+               <p>
+                  <hi>That no fleſh ſhould glory in his preſence: that according as it is written, He that glorieth, let him glory in the Lord.</hi> 1 Cor. 1. 26, 27, 28, 29, 31.</p>
+               <p>
+                  <hi>Therefore ye deſpiſed ones, ſtand faſt to your tackling, for ſet<g ref="char:EOLhyphen"/>ting up the kingdom of Jeſus Chriſt, and delivering the oppreſ<g ref="char:EOLhyphen"/>ſed from the hand of all their oppreſſors,</hi> Jer. 21. 11, 12.</p>
+               <p>Then ſhall there be no more leading into captivity, nor ſuch complaining in our ſtreets: but our ſorrows have</p>
+            </div>
+            <trailer>An End.</trailer>
+            <pb facs="tcp:45642:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
